@@ -3,7 +3,6 @@
 # Isolating Emotion from Motion: Classifying Affective States from Wearable Physiological Signals
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Dataset: WESAD](https://img.shields.io/badge/Dataset-WESAD-green.svg)](https://ubicomp.eti.uni-siegen.de/home/datasets/wesad/)
 
 This repository hosts the code, experimental pipeline, and evaluation suite for investigating whether machine learning classifiers trained on wearable physiological signals rely on genuine autonomic physiology or incidental body motion to distinguish emotional states.
